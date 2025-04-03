@@ -32,6 +32,6 @@ A interação ocorre exclusivamente por números. Basta iniciar o programa e sel
 Abra o terminal e execute:
 
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Walacekeystone/Calculadora-terminal.git
 cd seu-repositorio
 
