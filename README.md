@@ -33,5 +33,5 @@ Abra o terminal e execute:
 
 ```sh
 git clone https://github.com/Walacekeystone/Calculadora-terminal.git
-cd seu-repositorio
+
 
