@@ -10,7 +10,7 @@ public class Adicao {
     }
 
     // Criação do método calcular, que realiza a soma
-    public double calcularad() {
+    public double somar() {
         return mais1 + mais2;
     }
 }

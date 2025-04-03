@@ -7,7 +7,7 @@ public class Divisao {
         this.divisor2 = divisor2;
 
     }
-    public double calculardi(){
+    public double dividir(){
         return divisor1 / divisor2;
     }
 }

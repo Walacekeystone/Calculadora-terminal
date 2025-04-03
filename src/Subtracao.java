@@ -7,7 +7,7 @@ public class Subtracao {
               this.menos2 = menos2;
 
           }
-          public double calcularsu(){
+          public double subtrair(){
               return menos1 - menos2;
           }
 }

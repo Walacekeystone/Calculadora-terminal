@@ -6,7 +6,7 @@ public class Multiplicacao {
         this.vezes1 = vezes1;
         this.vezes2 = vezes2;
     }
-  public double calcularmu(){
+  public double multiplicar(){
         return vezes1 * vezes2;
   }
 

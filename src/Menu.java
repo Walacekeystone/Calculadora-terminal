@@ -63,10 +63,10 @@ public class Menu {
             Divisao di = new Divisao(num1, num2);
 
             double resultado = switch (opcao) {
-                case 1 -> ad.calcularad();
-                case 2 -> su.calcularsu();
-                case 3 -> mu.calcularmu();
-                case 4 -> di.calculardi();
+                case 1 -> ad.somar();
+                case 2 -> su.subtrair();
+                case 3 -> mu.multiplicar();
+                case 4 -> di.dividir();
                 default -> throw new IllegalArgumentException("Opção inválida!");
             };
 
