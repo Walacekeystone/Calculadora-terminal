@@ -1,18 +1,24 @@
-## Bem vindo(a) a minha calculadora de terminal em Java OOP♨️☕
-Essa calculadora é um projeto pessoal e indenpedente para treinar e aprimorar minhas abilidades em Java.
+## Bem-vindo(a) à minha Calculadora de Terminal em Java OOP ♨️☕  
 
- ## Sobre o Projeto📌
+Este é um projeto pessoal e independente, criado para treinar e aprimorar minhas habilidades em Java.  
 
-### A calculadora realiza as quatro operações básicas:  
-#### - Adição  
-#### - Subtração  
-#### - Multiplicação  
-#### - Divisão  
+---  
 
-#### O código é estruturado com uma classe para cada operação, além de uma classe para o menu e a classe principal (`main`).  
+## 📌 Sobre o Projeto  
 
-#### A interação ocorre exclusivamente por números. Ao iniciar o menu, basta selecionar a operação desejada utilizando os números correspondentes.
+A calculadora realiza as quatro operações básicas:  
+- **Adição**  
+- **Subtração**  
+- **Multiplicação**  
+- **Divisão**  
 
-## Tecnologias utilizadas🖥️
-### Java JDK
-### Programado no intellij idea
+O código é estruturado com uma classe para cada operação, além de uma classe para o menu e a classe principal (`main`).  
+
+A interação ocorre exclusivamente por números. Ao iniciar o menu, basta selecionar a operação desejada utilizando os números correspondentes.  
+
+---  
+
+## 🖥️ Tecnologias Utilizadas  
+
+- **Java JDK**  
+- **Desenvolvido no IntelliJ IDEA**
