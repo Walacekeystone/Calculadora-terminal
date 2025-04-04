@@ -2,7 +2,7 @@
 public class Main {
 
     public static void main(String[] args) {
-    // Declara o objeto menu e dar ínicio a ele.
+    // Instânciando o objeto me e chamando o método exibir
      Menu me = new Menu();
      me.exibir();
 
