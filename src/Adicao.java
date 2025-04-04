@@ -9,7 +9,7 @@ public class Adicao {
         this.mais2 = mais2;
     }
 
-    // Criação do método calcular, que realiza a soma
+    // Criação do método somar, que realiza a soma
     public double somar() {
         return mais1 + mais2;
     }
