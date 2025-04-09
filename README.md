@@ -25,7 +25,7 @@ A interação ocorre exclusivamente por números. Basta iniciar o programa e sel
 ### 📌 Pré-requisitos
 
 - **Java JDK** instalado (recomendo a versão mais recente)
-- **IntelliJ IDEA** ou outro editor compatível com Java
+- **IntelliJ IDEA** ou outra IDE
 
 ### 📥 Clonando o Repositório
 
